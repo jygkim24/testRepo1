@@ -1,4 +1,13 @@
-section {
+h1 {
     color:yellow; 
     background-color:violet;
+}
+
+h2 {
+    color:rgb(36, 36, 3); 
+    background-color:rgb(248, 245, 248);
+}
+
+p {
+    color:rgb(106, 34, 194); 
 }
