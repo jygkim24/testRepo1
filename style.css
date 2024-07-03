@@ -1,4 +1,4 @@
-h1 {
+/* h1 {
     color:yellow; 
     background-color:violet;
 }
@@ -11,3 +11,6 @@ h2 {
 p {
     color:rgb(106, 34, 194); 
 }
+    */
+
+    * {color:red;}
